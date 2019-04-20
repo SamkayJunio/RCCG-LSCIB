@@ -39,3 +39,17 @@ nav a.selected{
 h1, h2{
     color: #fff;
 }
+
+/**************
+FONT APPLIED
+***********/
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 15px 0 ;
+    font-size: 2.0em;
+}
+h2{
+ font-family: 'EB Garamond', serif;
+ font-size: -5px 0 0;
+ font-weight:  normal;
+}
