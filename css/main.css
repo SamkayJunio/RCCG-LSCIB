@@ -2,7 +2,7 @@
 General Body
 *******************/
 body{
-    background-color:gray;
+    background-color:white;
 }
 
 /****************
@@ -14,12 +14,12 @@ a{
 }
 
 header{
-   background: black;
-   border-color:darkslategrey 
+   background: darkgreen;
+   border-color:darkslategrey; 
 }
 
 nav{
-    background:darkslategrey; 
+    background:green; 
 }
 
 nav a, nav a :visited{
@@ -37,7 +37,7 @@ nav a.selected{
     margin: 0 ;
 }
 h1, h2{
-    color: #fff;
+    color: white;
 }
 
 /**************
